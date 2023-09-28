@@ -18,6 +18,7 @@
 |     3| SQL              |
 |     4| Django              |
 |     5| Node.js              |
+|     6| C    |
 
 
 
