@@ -1,9 +1,12 @@
-### Hi there 👋
-- 🔭 I’m currently working on a todo list application
+### Hi there, I'm Matheus de Alcântara👋
+
+##### I'm a backend developer, focused on python with django but studying javascript with nodejs and typescript, as well as java and spring. Currently taking a bachelor's degree in Software Engineering at Universidade de Brasília - UnB. I tend to look for more knowledge all the time and try my best at everything I do, which makes me a bit stubborn and competitive, but I can adapt and work with any team that I join! 
+
+- 🔭 Currently working on a todo list application
   
-- 🌱 I’m currently learning web development
+- 🌱 Learning about web development, back-end heavy
   
-- 👯 I’m looking to collaborate on all sort of projects to acquire new knowledge
+- 👯 Looking to collaborate on all sort of projects to acquire new knowledge
   
 - 💬 Ask me about backend development
   
@@ -11,14 +14,8 @@
 
 
 ### 💻 Languages and Tools
-| Rank | Technologies |
-|-----:|---------------|
-|     1| Python              |
-|     2| Javascript              |
-|     3| SQL              |
-|     4| Django              |
-|     5| Node.js              |
-|     6| C    |
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 
 
