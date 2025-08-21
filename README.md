@@ -2,7 +2,7 @@
 
 ##### I'm a backend developer, focused on python with django but studying javascript with nodejs and typescript, as well as java and spring. Currently taking a bachelor's degree in Software Engineering at Universidade de Brasília - UnB. I tend to look for more knowledge all the time and try my best at everything I do, which makes me a bit stubborn and competitive, but I can adapt and work with any team that I join! 
 
-- 🔭 Currently working on a admin panel web service
+- 🔭 Currently working on a fullstack web application
   
 - 🌱 Learning about web development, back-end heavy
 
